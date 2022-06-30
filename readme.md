@@ -1,1 +1,1 @@
-A basic CRUD implementation in Java
+A basic Android / SQLite CRUD implementation in Java
