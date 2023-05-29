@@ -18,7 +18,7 @@ O AppMinhaIdeia é um aplicativo Android desenvolvido em Java utilizando o Andro
 
 ## Configuração do Ambiente de Desenvolvimento ⚙️
 
-1. Faça o clone deste repositório: `git clone https://github.com/seu-usuario/AppMinhaIdeia.git`.
+1. Faça o clone deste repositório: `git clone https://github.com/wagarcdev/AppMinhaIdeia.git`.
 2. Abra o projeto no Android Studio.
 3. Certifique-se de ter o SDK do Android instalado na sua máquina.
 4. Compile e execute o aplicativo em um emulador ou dispositivo Android de sua escolha.
