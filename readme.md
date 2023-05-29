@@ -31,7 +31,7 @@ O AppMinhaIdeia utiliza as seguintes dependências:
 
 ## Contribuição 🤝
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma [issue](https://github.com/seu-usuario/AppMinhaIdeia/issues) ou enviar um [pull request](https://github.com/seu-usuario/AppMinhaIdeia/pulls).
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma [issue](https://github.com/wagarcdev/AppMinhaIdeia/issues) ou enviar um [pull request](https://github.com/seu-usuario/AppMinhaIdeia/pulls).
 
 ## Licença 📜
 
